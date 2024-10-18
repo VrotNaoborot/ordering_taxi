@@ -3,36 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\nktle\\source\\repos\\sale_courses\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\add_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|solutionrelative:sale_courses\\add_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|c:\\users\\nktle\\source\\repos\\sale_courses\\sale_courses\\add_courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|solutionrelative:sale_courses\\add_courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|c:\\users\\nktle\\source\\repos\\sale_courses\\sale_courses\\add_courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|solutionrelative:sale_courses\\add_courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|c:\\users\\nktle\\source\\repos\\sale_courses\\sale_courses\\add_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|solutionrelative:sale_courses\\add_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|c:\\users\\nktle\\source\\repos\\sale_courses\\sale_courses\\add_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|solutionrelative:sale_courses\\add_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|c:\\users\\nktle\\source\\repos\\sale_courses\\sale_courses\\selected_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|solutionrelative:sale_courses\\selected_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|c:\\users\\nktle\\source\\repos\\sale_courses\\sale_courses\\selected_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|solutionrelative:sale_courses\\selected_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\add_orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|solutionrelative:sale_courses\\add_orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|c:\\users\\nktle\\source\\repos\\sale_courses\\sale_courses\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|solutionrelative:sale_courses\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|c:\\users\\nktle\\source\\repos\\sale_courses\\sale_courses\\add_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|solutionrelative:sale_courses\\add_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|c:\\users\\nktle\\source\\repos\\sale_courses\\sale_courses\\dbworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|solutionrelative:sale_courses\\dbworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|c:\\users\\nktle\\source\\repos\\sale_courses\\sale_courses\\add_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|solutionrelative:sale_courses\\add_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|c:\\users\\nktle\\source\\repos\\sale_courses\\sale_courses\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|solutionrelative:sale_courses\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|c:\\users\\nktle\\source\\repos\\sale_courses\\sale_courses\\registrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\add_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|solutionrelative:sale_courses\\add_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\registrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|solutionrelative:sale_courses\\registrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|c:\\users\\nktle\\source\\repos\\sale_courses\\sale_courses\\registrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\registrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|solutionrelative:sale_courses\\registrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|c:\\users\\nktle\\source\\repos\\sale_courses\\sale_courses\\add_orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\add_orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|solutionrelative:sale_courses\\add_orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|c:\\users\\nktle\\source\\repos\\sale_courses\\sale_courses\\add_orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{34866C00-BE27-45E0-B381-6A930194F87E}|sale_courses\\sale_courses.csproj|solutionrelative:sale_courses\\add_orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,17 +70,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 191,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\MainForm.cs",
               "RelativeDocumentMoniker": "sale_courses\\MainForm.cs",
               "ToolTip": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\MainForm.cs",
               "RelativeToolTip": "sale_courses\\MainForm.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAqwHcAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T15:19:42.776Z",
               "IsPinned": true,
@@ -60,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\MainForm.cs",
               "RelativeDocumentMoniker": "sale_courses\\MainForm.cs",
@@ -73,12 +101,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "Add_orders.cs",
               "DocumentMoniker": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Add_orders.cs",
               "RelativeDocumentMoniker": "sale_courses\\Add_orders.cs",
-              "ToolTip": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Add_orders.cs",
-              "RelativeToolTip": "sale_courses\\Add_orders.cs",
+              "ToolTip": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Add_orders.cs*",
+              "RelativeToolTip": "sale_courses\\Add_orders.cs*",
               "ViewState": "AgIAAD8AAAAAAAAAAADwv0gAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T15:50:23.579Z",
@@ -91,8 +119,8 @@
               "Title": "Add_orders.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Add_orders.cs",
               "RelativeDocumentMoniker": "sale_courses\\Add_orders.cs",
-              "ToolTip": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Add_orders.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "sale_courses\\Add_orders.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Add_orders.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "sale_courses\\Add_orders.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T15:45:23.879Z",
               "IsPinned": true,
@@ -100,7 +128,107 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add_courses.cs",
+              "DocumentMoniker": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Add_courses.cs",
+              "RelativeDocumentMoniker": "sale_courses\\Add_courses.cs",
+              "ToolTip": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Add_courses.cs",
+              "RelativeToolTip": "sale_courses\\Add_courses.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:47:29.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add_courses.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Add_courses.cs",
+              "RelativeDocumentMoniker": "sale_courses\\Add_courses.cs",
+              "ToolTip": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Add_courses.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "sale_courses\\Add_courses.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:47:28.555Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Selected_users.cs",
+              "DocumentMoniker": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Selected_users.cs",
+              "RelativeDocumentMoniker": "sale_courses\\Selected_users.cs",
+              "ToolTip": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Selected_users.cs",
+              "RelativeToolTip": "sale_courses\\Selected_users.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:34:39.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add_category.cs",
+              "DocumentMoniker": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Add_category.cs",
+              "RelativeDocumentMoniker": "sale_courses\\Add_category.cs",
+              "ToolTip": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Add_category.cs",
+              "RelativeToolTip": "sale_courses\\Add_category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:24:25.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add_users.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Add_users.cs",
+              "RelativeDocumentMoniker": "sale_courses\\Add_users.cs",
+              "ToolTip": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Add_users.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "sale_courses\\Add_users.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:52:18.413Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Selected_users.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Selected_users.cs",
+              "RelativeDocumentMoniker": "sale_courses\\Selected_users.cs",
+              "ToolTip": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Selected_users.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "sale_courses\\Selected_users.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:34:38.081Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Add_category.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Add_category.cs",
+              "RelativeDocumentMoniker": "sale_courses\\Add_category.cs",
+              "ToolTip": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Add_category.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "sale_courses\\Add_category.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:24:22.554Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbWorker.cs",
+              "DocumentMoniker": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\DbWorker.cs",
+              "RelativeDocumentMoniker": "sale_courses\\DbWorker.cs",
+              "ToolTip": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\DbWorker.cs",
+              "RelativeToolTip": "sale_courses\\DbWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T18:49:59.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Registrate.cs",
               "DocumentMoniker": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Registrate.cs",
               "RelativeDocumentMoniker": "sale_courses\\Registrate.cs",
@@ -108,24 +236,22 @@
               "RelativeToolTip": "sale_courses\\Registrate.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAowEEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T17:57:12.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T17:57:12.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Registrate.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Registrate.cs",
               "RelativeDocumentMoniker": "sale_courses\\Registrate.cs",
               "ToolTip": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Registrate.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "sale_courses\\Registrate.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T17:57:11.455Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2024-10-11T17:57:11.455Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "Add_users.cs",
               "DocumentMoniker": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Add_users.cs",
               "RelativeDocumentMoniker": "sale_courses\\Add_users.cs",
@@ -135,18 +261,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T17:54:44.857Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Add_users.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Add_users.cs",
-              "RelativeDocumentMoniker": "sale_courses\\Add_users.cs",
-              "ToolTip": "C:\\Users\\nktle\\source\\repos\\sale_courses\\sale_courses\\Add_users.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "sale_courses\\Add_users.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T17:52:18.413Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             }
           ]
         }
